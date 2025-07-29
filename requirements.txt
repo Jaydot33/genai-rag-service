@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+openai
+chromadb  # or pinecone-client if using Pinecone
+sentence-transformers
+python-dotenv
+requests
+pytest
